@@ -4,3 +4,4 @@
 <a href="https://alexbry01.github.io/Practica3bootstrap.html">Practica 3 de Bootstrap.-</a>
 <a href="https://alexbry01.github.io/practica4bootstrap.html">Practica 4 de Bootstrap.-</a>
 <a href="https://alexbry01.github.io/practica5bootstrap.html">Practica 5 de Bootstrap.-</a>
+<a href="https://alexbry01.github.io/Practica6bootstrap.html">Practica 6 de Bootstrap.-</a>
